@@ -103,4 +103,4 @@ To enhance usability, the model can be deployed as a web application using **Fla
 - **Advanced predictive analytics** using time-series forecasting
 
 ## License
-This project is Owned By ©Bishal Bhati
+This project is Owned by ©Bishal Bhati. Feel free to contribute and Improve it.
